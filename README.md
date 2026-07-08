@@ -54,13 +54,6 @@ Passionate about building scalable backend applications and continuously learnin
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://www.instagram.com/ayush.h_31//">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-<a href="https://www.facebook.com/ayush.chandel.9809/">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" height="45"/>
-</a>
 
 <a href="mailto:ayushchandel95@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
