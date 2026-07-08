@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandel</h1>
 
-<h3 align="center">🚀 Backend Developer | Python • Django • REST APIs</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ayush+Chandel+%F0%9F%91%8B;Backend+Developer;Python+%7C+Django+Developer;REST+API+Developer;Always+Learning+New+Things+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
 Passionate about building scalable backend applications and continuously learning new technologies.
