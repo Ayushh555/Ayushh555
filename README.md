@@ -33,13 +33,25 @@ Passionate about building scalable web applications and REST APIs 🚀
 - MySQL
 
 ---
+## 🌐 Connect With Me
 
-## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Instagram: https://instagram.com/YOUR_USERNAME
-- Email: ayushchandel95@gmail.com
-!--
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://www.facebook.com/YOUR-FACEBOOK">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
+  </a>
+
+  <a href="mailto:ayushchandel95@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 **Ayushh555/Ayushh555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
