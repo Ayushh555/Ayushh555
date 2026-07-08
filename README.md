@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandel</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Developer;Django+%26+REST+API+Developer;Always+Learning+New+Technologies🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ayush+Chandel+👋;Backend+Developer;Python+%7C+Django+Developer;REST+API+Developer;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Ayushh555">
