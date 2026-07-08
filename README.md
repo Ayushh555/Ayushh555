@@ -1,75 +1,112 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandel</h1>
-
-<h3 align="center">🚀 Backend Developer | Python • Django</h3>
-
-<p align="center">
-Passionate about building scalable web applications and REST APIs 🚀
-</p>
+<h3 align="center">Backend Developer | Python • Django • REST APIs</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayushh555&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Backend Developer specializing in **Python & Django**
+- 🚀 Backend Developer passionate about building scalable web applications.
 - 🌱 Currently learning **Docker, AWS & System Design**
-- 🚀 Building scalable web applications & REST APIs
-- 🤝 Open to collaborating on exciting Django projects
-- ⚡ Always learning and improving
+- 💻 Working with **Python, Django & Django REST Framework**
+- 🤝 Open to collaborating on Backend and Django projects.
+- 📫 Reach me at **your-email@gmail.com**
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,mysql,postgresql,vscode,linux,docker" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode,mysql,postgresql,linux" />
+
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Stats
 
-🔹 Online Job Portal (Django)
+<p align="center">
 
-🔹 REST API Projects
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-🔹 Authentication System
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-🔹 Portfolio Website
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR-INSTAGRAM/">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://www.facebook.com/YOUR-FACEBOOK/">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" height="45"/>
+<a href="https://facebook.com/YOUR_FACEBOOK">
+<img src="https://cdn.simpleicons.org/facebook/1877F2"/>
 </a>
 
-<a href="mailto:ayushchandel95@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## 💬 Favorite Quote
+## 🚀 Featured Projects
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+⭐ Job Portal (Django)
+
+⭐ E-Commerce Backend API
+
+⭐ Authentication System
+
+⭐ Blog REST API
+
+⭐ Portfolio Website
 
 ---
 
-⭐ If you like my work, don't forget to star my repositories!
+## 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+### 💬 Quote
+
+> "First, solve the problem. Then, write the code."
