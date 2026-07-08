@@ -36,15 +36,15 @@ Passionate about building scalable web applications and REST APIs 🚀
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/ayush-chandel-a2b726252/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM">
+  <a href="https://www.instagram.com/ayush.h_31/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="https://www.facebook.com/YOUR-FACEBOOK">
+  <a href="https://www.facebook.com/ayush.chandel.9809/">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
   </a>
 
@@ -52,7 +52,7 @@ Passionate about building scalable web applications and REST APIs 🚀
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-**Ayushh555/Ayushh555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
