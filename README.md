@@ -1,73 +1,103 @@
-<<h1 align="center">Hi 👋, I'm Ayush Chandel</h1>
+<h1 align="center">Hi 👋, I'm Ayush Chandel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ayush+Chandel+%F0%9F%91%8B;Backend+Developer;Python+%7C+Django+Developer;REST+API+Developer;Always+Learning+New+Things+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Developer;Django+%26+REST+API+Developer;Always+Learning+New+Technologies🚀" />
 </p>
 
 <p align="center">
-Passionate about building scalable web applications and REST APIs 🚀
+  <a href="https://github.com/Ayushh555">
+    <img src="https://komarev.com/ghpvc/?username=Ayushh555&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 💻 Backend Developer
-- 🐍 Python Developer
-- 🌐 Django & Django REST Framework
-- 🌱 Currently learning Docker & AWS
-- 🚀 Always building and learning
+💻 Backend Developer passionate about building scalable web applications.
 
----
+🚀 I enjoy creating secure, efficient, and user-friendly software.
 
-## 🛠️ Tech Stack
-
-- Python
-- Django
+🌱 Currently learning:
 - Django REST Framework
-- JavaScript
-- HTML
-- CSS
-- Git
-- GitHub
-- MySQL
+- Docker
+- AWS
+- System Design
+
+👨‍💻 Portfolio: Coming Soon
+
+📫 Email: ayushchandel95@gmail.com
 
 ---
-## 🌐 Connect With Me
+
+# 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-chandel-a2b726252/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 
-  <a href="https://www.instagram.com/ayush.h_31/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,postgresql,git,github,vscode,linux,docker" />
 
-  <a href="https://www.facebook.com/ayush.chandel.9809/">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" />
-  </a>
-
-  <a href="mailto:ayushchandel95@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
 </p>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
-## 📈 Contribution Graph
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushh555&theme=tokyo-night" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushh555&theme=tokyo-night"/>
+
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushh555&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="48"/>
+</a>
+
+<a href="mailto:ayushchandel95@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ Online Job Portal (Django)
+
+⭐ Django REST API
+
+⭐ Authentication System
+
+⭐ Portfolio Website
+
+⭐ Python Automation Scripts
+
+---
+
+# 💡 Quote
+
+> "Great software is built one commit at a time."
