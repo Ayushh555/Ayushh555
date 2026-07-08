@@ -1,103 +1,75 @@
 <h1 align="center">Hi 👋, I'm Ayush Chandel</h1>
+
+<h3 align="center">🚀 Backend Developer | Python • Django</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ayush+Chandel+👋;Backend+Developer;Python+%7C+Django+Developer;REST+API+Developer;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+Passionate about building scalable web applications and REST APIs 🚀
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/Ayushh555">
-    <img src="https://komarev.com/ghpvc/?username=Ayushh555&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
----
-
-# 💫 About Me
-
-💻 Backend Developer passionate about building scalable web applications.
-
-🚀 I enjoy creating secure, efficient, and user-friendly software.
-
-🌱 Currently learning:
-- Django REST Framework
-- Docker
-- AWS
-- System Design
-
-👨‍💻 Portfolio: Coming Soon
-
-📫 Email: ayushchandel95@gmail.com
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,postgresql,git,github,vscode,linux,docker" />
-
+  <img src="https://komarev.com/ghpvc/?username=Ayushh555&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 👨‍💻 About Me
+
+- 💻 Backend Developer specializing in **Python & Django**
+- 🌱 Currently learning **Docker, AWS & System Design**
+- 🚀 Building scalable web applications & REST APIs
+- 🤝 Open to collaborating on exciting Django projects
+- ⚡ Always learning and improving
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushh555&theme=tokyo-night"/>
-
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,mysql,postgresql,vscode,linux,docker" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📂 Featured Projects
 
-<p align="center">
+🔹 Online Job Portal (Django)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushh555&theme=tokyonight&no-frame=true&margin-w=10"/>
+🔹 REST API Projects
 
-</p>
+🔹 Authentication System
+
+🔹 Portfolio Website
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="https://www.instagram.com/YOUR-INSTAGRAM/">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="48"/>
+<a href="https://www.facebook.com/YOUR-FACEBOOK/">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="45"/>
 </a>
 
 <a href="mailto:ayushchandel95@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 💬 Favorite Quote
 
-⭐ Online Job Portal (Django)
-
-⭐ Django REST API
-
-⭐ Authentication System
-
-⭐ Portfolio Website
-
-⭐ Python Automation Scripts
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ---
 
-# 💡 Quote
-
-> "Great software is built one commit at a time."
+⭐ If you like my work, don't forget to star my repositories!
