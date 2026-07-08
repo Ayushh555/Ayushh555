@@ -54,6 +54,9 @@ Passionate about building scalable backend applications and continuously learnin
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+<a href="https://github.com/Ayushh555">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
 
 <a href="mailto:ayushchandel95@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
