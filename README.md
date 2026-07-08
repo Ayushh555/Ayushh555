@@ -1,6 +1,43 @@
-## Hi there 👋
+<<h1 align="center">Hi 👋, I'm Ayush Chandel</h1>
 
-<!--
+<h3 align="center">Backend Developer | Python & Django</h3>
+
+<p align="center">
+Passionate about building scalable web applications and REST APIs 🚀
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Backend Developer
+- 🐍 Python Developer
+- 🌐 Django & Django REST Framework
+- 🌱 Currently learning Docker & AWS
+- 🚀 Always building and learning
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Django
+- Django REST Framework
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
+- MySQL
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- Instagram: https://instagram.com/YOUR_USERNAME
+- Email: ayushchandel95@gmail.com
+!--
 **Ayushh555/Ayushh555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
