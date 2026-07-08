@@ -52,16 +52,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushh555&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh555&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushh555&show_icons=true&theme=github_dark&cache_seconds=1800" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh555&layout=compact&theme=github_dark" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayushh555&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Ayushh555&theme=github-dark" />
 </p>
