@@ -50,15 +50,15 @@ Passionate about building scalable backend applications and continuously learnin
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/ayush-chandel-a2b726252//">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR-INSTAGRAM/">
+<a href="https://www.instagram.com/ayush.h_31//">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
-<a href="https://www.facebook.com/YOUR-FACEBOOK/">
+<a href="https://www.facebook.com/ayush.chandel.9809/">
 <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45"/>
 </a>
 
