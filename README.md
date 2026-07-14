@@ -43,6 +43,7 @@ Passionate about building scalable backend applications and continuously learnin
   <img width="70%" src="https://streak-stats.demolab.com?user=Ayushh555&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 ## 📂 Featured Projects
 
 🔹 Online Job Portal (Django)
@@ -73,8 +74,8 @@ Passionate about building scalable backend applications and continuously learnin
   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-</p>
-- <!-- Snake Game Repo View -->
+< </p>
+- <Snake Game Repo View --> >
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
