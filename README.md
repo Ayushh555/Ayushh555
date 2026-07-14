@@ -74,15 +74,13 @@ Passionate about building scalable backend applications and continuously learnin
   <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-< </p>
-
+ </p>
 ---
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 ---
-
 ## 💬 Favorite Quote
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
