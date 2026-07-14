@@ -71,10 +71,12 @@ Passionate about building scalable backend applications and continuously learnin
 
  </p>
 ---
-## Snake Game Repo View
+
+Snake Game Repo View
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ---
 
 ## 💬 Favorite Quote
