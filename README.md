@@ -34,14 +34,11 @@ Passionate about building scalable backend applications and continuously learnin
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushh555&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh555&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushh555&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Ayushh555&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh555&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ayushh555&theme=tokyonight)
 
 ## 📂 Featured Projects
 
