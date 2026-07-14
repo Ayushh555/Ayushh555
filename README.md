@@ -16,8 +16,8 @@ Passionate about building scalable backend applications and continuously learnin
 
 ## 👨‍💻 About Me
 
-- 💻 Backend Developer specializing in **Python & Django**
-- 🌱 Currently learning **Docker, AWS & System Design**
+- 💻  Software Developer specializing in **Python & Django**
+- 🚀 Currently learning Django, REST APIs & Backend Development
 - 🚀 Building scalable web applications & REST APIs
 - 🤝 Open to collaborating on exciting Django projects
 - ⚡ Always learning and improving
@@ -26,10 +26,10 @@ Passionate about building scalable backend applications and continuously learnin
 
 ## 🛠 Tech Stack
 
+## 🛠️ Tech Stack
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,mysql,postgresql,vscode,linux,docker" />
-
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,sqlite,git,github,vscode&perline=5" />
 </p>
 
 ---
