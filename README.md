@@ -33,11 +33,9 @@ Passionate about building scalable backend applications and continuously learnin
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushh555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushh555&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=ankushkaushal0805-design&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ankushkaushal0805-design&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankushkaushal0805-design&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📂 Featured Projects
 
