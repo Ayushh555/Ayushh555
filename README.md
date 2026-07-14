@@ -70,7 +70,7 @@ Passionate about building scalable backend applications and continuously learnin
 </a>
 
  </p>
----
+ 
 
 Snake Game Repo View
 <div align="center">
