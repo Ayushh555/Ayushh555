@@ -32,13 +32,7 @@ Passionate about building scalable backend applications and continuously learnin
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Ayushh555&theme=tokyonight&hide_border=true" />
-</p>
-
----
 ## 📂 Featured Projects
 
 🔹 Online Job Portal (Django)
