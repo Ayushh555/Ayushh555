@@ -7,11 +7,6 @@
 <p align="center">
 Passionate about building scalable backend applications and continuously learning new technologies.
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayushh555&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
