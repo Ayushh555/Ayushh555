@@ -17,7 +17,7 @@ Passionate about building scalable backend applications and continuously learnin
 - 🚀 Currently learning Django, REST APIs & Backend Development
 - 🚀 Building scalable web applications & REST APIs
 - 🤝 Open to collaborating on exciting Django projects
-- ⚡ Always learning and improving
+- ⚡ Always learning and improving.
 
 ---
 
