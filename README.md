@@ -11,7 +11,7 @@ Passionate about building scalable backend applications and continuously learnin
 ---
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me-
 
 - 💻  Software Developer specializing in **Python & Django**
 - 🚀 Currently learning Django, REST APIs & Backend Development
