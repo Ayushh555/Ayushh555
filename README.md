@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build web applications and backend systems with Python & Django.
+  I build web applications and Frontend and  backend systems with Python & Django.
 </p>
 
 ---
